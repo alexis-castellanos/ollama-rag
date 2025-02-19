@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Database files
+dempo-rag-chroma
+dempo-rag-chroma.db
+# Ignore the prompt file(s) used for testing 
+init_prompt.txt 
+AWS-Certified-AI-Practitioner_Exam-Guide.pdf
